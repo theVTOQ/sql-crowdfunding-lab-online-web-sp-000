@@ -7,3 +7,4 @@ INSERT INTO projects (title, funding_goal) VALUES ("Last Jedi Rewrite", 54700);
 INSERT INTO projects (title, funding_goal) VALUES ("GOT S8 Rewrite", 8904561);
 INSERT INTO projects (title, funding_goal) VALUES ("SpaceX", 89513215);
 INSERT INTO projects (title, funding_goal) VALUES ("Moon Base", 59412389);
+INSERT INTO projects (title, funding_goal) VALUES ("Space Force", 1000000000);
