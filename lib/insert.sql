@@ -32,8 +32,3 @@ INSERT INTO users (name) VALUES ("Steven");
 INSERT INTO users (name) VALUES ("Plato");
 INSERT INTO users (name) VALUES ("Agamemnon");
 INSERT INTO users (name) VALUES ("Rey");
-
-
-
-
-
